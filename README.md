@@ -10,3 +10,9 @@ Simple Python Youtube to MP3 Converter made with ♡ by me
 
 
 Have fun! This is way better than all of the online websites with hundreds of annoying ads.
+
+
+# Disclaimer
+
+I do not own FFmpeg or any of its components.  
+This project simply **uses FFmpeg** as a backend tool for audio processing.
